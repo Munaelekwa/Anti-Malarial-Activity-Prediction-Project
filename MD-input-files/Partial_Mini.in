@@ -1,0 +1,22 @@
+Initial minimization of MMP3 (MMMM):
+ &cntrl
+  imin   = 1,
+  maxcyc = 5000,
+  ncyc   = 750,
+  ntb    = 1,
+  ntr    = 1,
+  cut    = 12.0,
+  NTWR   = 500
+  ntxo   = 1
+  ioutfm = 0
+/
+Hold the Protein fixed
+500.0
+RES 1 390
+END
+END
+
+
+
+
+

@@ -1,0 +1,16 @@
+Input file for running GB in serial
+
+&general
+ startframe=400000,  endframe=500000, interval=100, keep_files=0,
+/
+&gb
+igb=5,saltcon=0.15,
+/
+#&pb
+#istrng=0.100,
+#/
+&decomp
+idecomp=1, 
+print_res="390;14;36;43;80;112;122;132;232,"
+dec_verbose=1,csv_format=0,
+/

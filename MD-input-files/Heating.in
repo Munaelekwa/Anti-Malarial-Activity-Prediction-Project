@@ -1,0 +1,27 @@
+Heating Step of MMP3 (MMMM):
+ &cntrl
+  imin= 0,
+  irest=0,
+  NTX=1, 
+  ntb= 1,
+  NTPR=500,
+  NTWX=500,
+  NTWR=500,
+  ntr=1,
+  Tempi=0.0, 
+  Temp0=300.0,
+  NTT=3,
+  gamma_ln=1.0, 
+  NTC=2,
+  NTF=2, 
+  cut= 12.0,
+  nstlim=100000,
+  dt=0.002,
+  ntxo=1
+  ioutfm=0
+/
+Keep Protein all atoms fixed with weak restraints
+20.0
+RES 1 390
+END
+END
