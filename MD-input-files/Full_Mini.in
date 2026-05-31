@@ -1,0 +1,14 @@
+full  minimization of MMP3 (MMMM):
+ &cntrl
+  imin   = 1,
+  maxcyc = 50000,
+  ncyc   = 500,
+  ntb    = 1,
+  ntr    = 0,
+  cut    = 12.0,
+  Drms   = 0.0001,
+  NTWR   = 500
+  ntxo   = 1 
+  ioutfm = 0
+/
+END
