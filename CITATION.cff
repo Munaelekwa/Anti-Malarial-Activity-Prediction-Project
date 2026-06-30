@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Elekwa"
+  given-names: "Munachiso"
+  orcid: "https://orcid.org/0009-0009-8722-9927"
+- family-names: "Eze"
+  given-names: "Shadrach"
+  orcid: "https://orcid.org/0000-0002-4987-5583"
+title: "Mal-predict"
+version: 1.0.0
+doi: 10.5281/zenodo.21060682
+date-released: 2026-06-30
+url: "https://github.com/Munaelekwa/Mal-predict"
